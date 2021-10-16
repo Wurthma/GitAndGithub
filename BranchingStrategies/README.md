@@ -33,7 +33,9 @@ Or to find responsible:
 
 ## Gitflow
 
-Images with examples from gitflow
+![Gitflow example](./resources/git-flow-example_1.png)
+
+![Gitflow example](./resources/git-flow-example_2.png)
 
 ## Tools
 
