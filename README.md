@@ -21,9 +21,9 @@ Commit tracked files: `git commit -m "My commit message"`
 
 Check the list of commits: 
 
-	- Custom: `git log` or `git log --graph` to more detailed
-	- Basic: `git log --oneline`
-	- Detailed: `git log -p`
+- Custom: `git log` or `git log --graph` to more detailed
+- Basic: `git log --oneline`
+- Detailed: `git log -p`
 	
 ## .gitignore
 
