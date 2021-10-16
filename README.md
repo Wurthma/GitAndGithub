@@ -10,11 +10,17 @@ We can change the parameter to `--local` to configure only for the currently rep
 ## Most basic commands
 
 Init Git version control in a project directory: `git init`
+
 Check status: `git status`
+
 Track files: `git add .` or for unique file `git add <myFileName>`
+
 Untrack files `git rm --caached .` or for unique file `git rm --caached <myFileName>`
+
 Commit tracked files: `git commit -m "My commit message"`
+
 Check the list of commits: 
+
 	- Custom: `git log` or `git log --graph` to more detailed
 	- Basic: `git log --oneline`
 	- Detailed: `git log -p`
