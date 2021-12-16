@@ -58,6 +58,8 @@ below will push your code to the main branch of the remote repository defined wi
 `git checkout feature-payment` change to branch **feature-payment**.
 
 We can also use `git checkout -b <branchName>` this will create a new branch and change to it.
+	
+To change to a remote branch use `git fetch` before `git checkout -b <branchName>`
 
 `git branch -d <branchName>` to delete a branch.
 
