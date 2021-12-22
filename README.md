@@ -133,3 +133,9 @@ With this command git will open the default text editor to edit the commits. All
 
 - If you are using Vim editor press **i** for enter edit mode
 - After editing the file press **ESC : w q**
+
+## Squash pueshed commits
+
+`git rebase -i origin/master~4 master`
+
+`git push origin +master`
