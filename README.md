@@ -131,5 +131,5 @@ After create a tag, we need to push it.
 
 With this command git will open the default text editor to edit the commits. All commits you want to "merge" should get "squash" in front of them, and the commit you want to keep (usually the first) should be "pick". When saving and closing this file, git will open another one to edit the commit messages, comment out the ones you don't want with "#" and change the text of the message that will keep the way you prefer.
 
-- If you are using Vim editor press *i* for enter edit mode
-- After editing the file press *ESC : w q*
+- If you are using Vim editor press **i** for enter edit mode
+- After editing the file press **ESC : w q**
